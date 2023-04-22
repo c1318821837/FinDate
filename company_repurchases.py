@@ -44,6 +44,9 @@ for i in range(1,50):
             'ContextUrl':elements.find_element(By.XPATH, address + str(i) + ']' + '/td[4]').find_element(By.CSS_SELECTOR,'a').get_attribute('href')
         }
         print(data_dict)
+        todayjson.append(data_dict)
+JsonStore(JsonUpdate(JsonOpen('repurchases.json'),todayjson))
+
 
 diver.close()
 
