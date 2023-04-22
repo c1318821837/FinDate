@@ -45,6 +45,7 @@ for i in range(1,50):
         print(data_dict)
         todayjson.append(data_dict)
 JsonStore(JsonUpdate(JsonOpen('repurchases.json'),todayjson))
+diver.close()
 
 
 
