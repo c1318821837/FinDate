@@ -1,0 +1,538 @@
+1681999821116	geckodriver	INFO	Listening on 127.0.0.1:49331
+1681999824149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49332" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilejlDUEa"
+1681999824423	Marionette	INFO	Marionette enabled
+1681999824428	Marionette	INFO	Listening on port 49338
+WebDriver BiDi listening on ws://127.0.0.1:49332
+1681999824845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilejlDUEa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49332/devtools/browser/b327461b-83c8-4022-a678-30c8333d5403
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682000183008	Marionette	INFO	Stopped listening on po1682000183169	Marionette	INFO	Marionette enabled
+1682000183174	Marionette	INFO	Listening on port 49882
+WebDriver BiDi listening on ws://127.0.0.1:49877
+1682000183381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilentNgC4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49877/devtools/browser/59c194b7-86a0-42c5-b8a2-b791a740089d
+1682000208900	Marionette	INFO	Stopped listening on port 49881682000210866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49969" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile89MTjU"
+1682000211123	Marionette	INFO	Marionette enabled
+1682000211127	Marionette	INFO	Listening on port 49974
+WebDriver BiDi listening on ws://127.0.0.1:49969
+1682000211471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile89MTjU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49969/devtools/browser/49782788-d903-41b7-8357-ad6f2df14394
+1682000223976	Marionette	INFO	Stopped listening on port 49974
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1682000326488	geckodriver	INFO	Listening on 127.0.0.1:50190
+1682000329549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50191" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilekUFrzG"
+1682000329803	Marionette	INFO	Marionette enabled
+1682000329807	Marionette	INFO	Listening on port 50200
+WebDriver BiDi listening on ws://127.0.0.1:50191
+1682000330172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilekUFrzG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50191/devtools/browser/6976a5aa-3944-41f1-9795-e952684386ba
+1682000407280	Marionette	INFO	Stopped listening on port 50201682000409321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50321" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileRKTDHq"
+1682000409585	Marionette	INFO	Marionette enabled
+1682000409589	Marionette	INFO	Listening on port 50326
+WebDriver BiDi listening on ws://127.0.0.1:50321
+1682000409948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileRKTDHq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50321/devtools/browser/0f2b38cb-ce98-4d13-8780-b0bdd7be1cf2
+1682000446195	Marionette	INFO	Stopped listening on port 50321682000447749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50438" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilehDeVQt"
+1682000448017	Marionette	INFO	Marionette enabled
+1682000448022	Marionette	INFO	Listening on port 50450
+WebDriver BiDi listening on ws://127.0.0.1:50438
+1682000448387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilehDeVQt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50438/devtools/browser/68ccc562-4d6b-4163-ae09-ccbb849d5122
+1682000759696	Marionette	INFO	Stopped listening on port 50450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682000760848	geckodriver	INFO	Listening on 127.0.0.1:50778
+1682000763909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50779" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile1RrmTM"
+1682000764192	Marionette	INFO	Marionette enabled
+1682000764197	Marionette	INFO	Listening on port 50787
+WebDriver BiDi listening on ws://127.0.0.1:50779
+1682000764576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile1RrmTM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50779/devtools/browser/e110a95e-e41c-4216-86b9-df373872d27d
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1682001175583	Marionette	INFO	Stopped listening on port 50787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682001176740	geckodriver	INFO	Listening on 127.0.0.1:50950
+1682001179816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50951" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilelk25F0"
+1682001180076	Marionette	INFO	Marionette enabled
+1682001180080	Marionette	INFO	Listening on port 50957
+WebDriver BiDi listening on ws://127.0.0.1:50951
+1682001180430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilelk25F0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50951/devtools/browser/6809385c-b8d0-400b-b437-ed293622c026
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682001276644	Marionette	INFO	Stopped listening on port 50957
+1682001280442	geckodriver	INFO	Listening on 127.0.0.1:51088
+1682001283509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51089" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileqQ9Pjz"
+1682001283758	Marionette	INFO	Marionette enabled
+1682001283763	Marionette	INFO	Listening on port 51096
+WebDriver BiDi listening on ws://127.0.0.1:51089
+1682001284115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileqQ9Pjz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51089/devtools/browser/6e05535d-1cf1-486b-89c3-c3d9820023f3
+1682001349128	Marionette	INFO	Stopped listening on port 51096
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682054745150	geckodriver	INFO	Listening on 127.0.0.1:55383
+1682054748196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55384" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileghWJ45"
+1682054748507	Marionette	INFO	Marionette enabled
+1682054748518	Marionette	INFO	Listening on port 55389
+WebDriver BiDi listening on ws://127.0.0.1:55384
+1682054748889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileghWJ45\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55384/devtools/browser/aafa14bb-f578-4f53-943f-55ae94574174
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 92: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 6500 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 1081 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682054872653	Marionette	INFO	Stopped listening on port 55389
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1682054874167	geckodriver	INFO	Listening on 127.0.0.1:55697
+1682054877203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55698" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileAGl94b"
+1682054877484	Marionette	INFO	Marionette enabled
+1682054877489	Marionette	INFO	Listening on port 55703
+WebDriver BiDi listening on ws://127.0.0.1:55698
+1682054877857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileAGl94b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55698/devtools/browser/ba28a72e-e39c-4a05-9d88-c9ed1d33d55b
+1682054934022	Marionette	INFO	Stopped listening on port 55701682054935369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53672" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofiles2lSGC"
+1682054935617	Marionette	INFO	Marionette enabled
+1682054935621	Marionette	INFO	Listening on port 53678
+WebDriver BiDi listening on ws://127.0.0.1:53672
+1682054935965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofiles2lSGC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53672/devtools/browser/8d74bd06-c5e0-4c7c-af6a-0155d56ca229
+1682054951437	Marionette	INFO	Stopped listening on port 53678
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55907" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile4ytPir"
+1682054950964	Marionette	INFO	Marionette enabled
+1682054950967	Marionette	INFO	Listening on port 55960
+WebDriver BiDi listening on ws://127.0.0.1:55907
+1682054951327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile4ytPir\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55907/devtools/browser/eccab119-6ad0-44b6-b40b-04ecc56bd4f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weibo.com."
+1682055057819	Marionette	INFO	Stopped listening on port 55960
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56071" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilelsVmTn"
+1682055006230	Marionette	INFO	Marionette enabled
+1682055006234	Marionette	INFO	Listening on port 56076
+WebDriver BiDi listening on ws://127.0.0.1:56071
+1682055006603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilelsVmTn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56071/devtools/browser/0151f519-f61d-4771-bc28-abe0c8587fad
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682055085747	Marionette	INFO	Stopped listening on port 56076
+608	Marionette	INFO	Marionette enabled
+1682055058612	Marionette	INFO	Listening on port 52639
+WebDriver BiDi listening on ws://127.0.0.1:52633
+1682055058965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilelW1RSq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52633/devtools/browser/7976541a-09f5-4629-b4ce-b8d0e45c8da5
+1682055084502	Marionette	INFO	Stopped listening on port 52631682055086380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55740" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileIuHZej"
+1682055086624	Marionette	INFO	Marionette enabled
+1682055086628	Marionette	INFO	Listening on port 55746
+WebDriver BiDi listening on ws://127.0.0.1:55740
+1682055086983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileIuHZej\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55740/devtools/browser/cfd62e8c-7e75-4ae1-892e-e1a0ed4f40d0
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1682055164368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59483" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileK4wgs5"
+1682055164613	Marionette	INFO	Marionette enabled
+1682055164617	Marionette	INFO	Listening on port 59488
+WebDriver BiDi listening on ws://127.0.0.1:59483
+1682055164960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileK4wgs5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59483/devtools/browser/11b78195-6095-4edb-9049-318fabef7d07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weibo.com."
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.1.4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://security.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.weibo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://security.weibo.com."
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://outofmemory.cn/view/js/xiuno.js?2.2.0, line 860: unreachable code after return statement
+JavaScript warning: http://outofmemory.cn/view/js/xiuno.js?2.2.0, line 937: unreachable code after return statement
+JavaScript error: http://outofmemory.cn/plugin/wqo_theme_basic/js/require.min.js?2.2.0, line 7: Error: Script error for "poster"
+https://requirejs.org/docs/errors.html#scripterror
+1682055547019	Marionette	INFO	Stopped listening on port 59488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682055548760	geckodriver	INFO	Listening on 127.0.0.1:65215
+1682055551789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65216" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileQaAiTQ"
+1682055552034	Marionette	INFO	Marionette enabled
+1682055552038	Marionette	INFO	Listening on port 65221
+WebDriver BiDi listening on ws://127.0.0.1:65216
+1682055552383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileQaAiTQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65216/devtools/browser/80abf10f-189b-48a4-9002-cd2dc8eaa2ff
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 91: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 3812 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 1722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/weixin_43793510/article/details/117168969, line 87: SyntaxError: unexpected token: identifier
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://g.csdnimg.cn/baidu-search/1.0.12/baidu-search.[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: http://authserver.hhu.edu.cn/authserver/js/jquery-1.9.1.min.js;jsessionid=Noyidqz1cMAf7Vv0yAFaWlGOB5gNWubpTT_1zYQ3Y-1_VCCD7wv1!-1889897628, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://authserver.hhu.edu.cn/authserver/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1682057905442	Marionette	INFO	Stopped listening on port 63865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 91: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 7384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CJVz-q1y4QcI86kHGme05ne9YeJsi3pnNRBXtIEru_s.js line 2 > eval line 7038 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682064129219	Marionette	INFO	Stopped listening on port 65221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+dBZS0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61627/devtools/browser/b9167fda-76e5-4978-ade2-1425c0c13748
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1682058743928	Marionette	INFO	Stopped listening on port 61633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682080020543	geckodriver	INFO	Listening on 127.0.0.1:52946
+1682080023619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52947" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileyvL5HE"
+1682080023925	Marionette	INFO	Marionette enabled
+1682080023930	Marionette	INFO	Listening on port 52957
+WebDriver BiDi listening on ws://127.0.0.1:52947
+1682080024195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileyvL5HE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52947/devtools/browser/ed98d0d9-6e34-4d2d-85bc-3b6e15e2c432
+1682080044080	Marionette	INFO	Stopped listening on port 52957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682081934362	geckodriver	INFO	Listening on 127.0.0.1:55859
+1682081937434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55860" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofiled9sp5b"
+1682081937678	Marionette	INFO	Marionette enabled
+1682081937682	Marionette	INFO	Listening on port 55869
+WebDriver BiDi listening on ws://127.0.0.1:55860
+1682081938066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofiled9sp5b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55860/devtools/browser/b7d69ddb-de50-4ac7-ac5a-a815083b0570
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682082086989	Marionette	INFO	Stopped listening on port 55869
+1682082088884	geckodriver	INFO	Listening on 127.0.0.1:56083
+1682082091937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56084" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileYZkyXI"
+1682082092242	Marionette	INFO	Marionette enabled
+1682082092247	Marionette	INFO	Listening on port 56092
+WebDriver BiDi listening on ws://127.0.0.1:56084
+1682082092535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileYZkyXI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56084/devtools/browser/a37c1baf-9fb8-4cfe-9364-60ddba64f009
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 91: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 3689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682082706940	Marionette	INFO	Stopped listening on port 56092
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ch JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 93: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 7582 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 93: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 3041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 93: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 6859 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682086418196	Marionette	INFO	Stopped listening on port 56215
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileI3Ta0b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58320/devtools/browser/a487a9a0-865e-4e24-a277-4ded8131162e
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682083910730	Marionette	INFO	Stopped listening on port 58326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58412" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileCPMybv"
+1682083897992	Marionette	INFO	Marionette enabled
+1682083897997	Marionette	INFO	Listening on port 58422
+WebDriver BiDi listening on ws://127.0.0.1:58412
+1682083898346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileCPMybv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58412/devtools/browser/63dc1059-79a9-4b87-9eae-bfd3d3120c20
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682083908056	Marionette	INFO	Stopped listening on port 58422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682084037418	geckodriver	INFO	Listening on 127.0.0.1:58612
+1682084040489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58613" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileWWq7c8"
+1682084040733	Marionette	INFO	Marionette enabled
+1682084040737	Marionette	INFO	Listening on port 58622
+WebDriver BiDi listening on ws://127.0.0.1:58613
+1682084041116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileWWq7c8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58613/devtools/browser/14278a59-1fde-4631-8f0c-20e28434f27b
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682084100379	Marionette	INFO	Stopped listening on port 58621682084100622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58737" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileINDVzn"
+1682084100900	Marionette	INFO	Marionette enabled
+1682084100904	Marionette	INFO	Listening on port 58744
+WebDriver BiDi listening on ws://127.0.0.1:58737
+1682084101169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileINDVzn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58737/devtools/browser/d485ef17-fa58-4008-8ca0-10a0449126b5
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682086419247	Marionette	INFO	Stopped listening on port 58744
+1682086429382	geckodriver	INFO	Listening on 127.0.0.1:60972
+1682086432447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60973" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileUqGLSC"
+1682086432695	Marionette	INFO	Marionette enabled
+1682086432699	Marionette	INFO	Listening on port 60979
+WebDriver BiDi listening on ws://127.0.0.1:60973
+1682086433039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileUqGLSC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60973/devtools/browser/7028ff84-f5c6-4d8d-bdcf-c0930e9238b7
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682086753859	Marionette	INFO	Stopped listening on port 60979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682087006242	geckodriver	INFO	Listening on 127.0.0.1:61722
+1682087009304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61723" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilefxt869"
+1682087009549	Marionette	INFO	Marionette enabled
+1682087009553	Marionette	INFO	Listening on port 61732
+WebDriver BiDi listening on ws://127.0.0.1:61723
+1682087009909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilefxt869\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61723/devtools/browser/15c7a168-357f-49ea-a981-86d01114a8d8
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087083474	Marionette	INFO	Stopped listening on port 61732
+[Parent 18444, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+onette	INFO	Listening on port 61829
+WebDriver BiDi listening on ws://127.0.0.1:61821
+1682087037258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileov5joU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61821/devtools/browser/c87d5a55-51ce-49cb-a291-79402f62cd7c
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087089559	Marionette	INFO	Stopped listening on port 61829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682087090861	geckodriver	INFO	Listening on 127.0.0.1:61946
+1682087093923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61947" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileLbfxfL"
+1682087094179	Marionette	INFO	Marionette enabled
+1682087094183	Marionette	INFO	Listening on port 61955
+WebDriver BiDi listening on ws://127.0.0.1:61947
+1682087094526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileLbfxfL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61947/devtools/browser/205ccbb6-c19b-4cb9-b196-ef663967630a
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087122182	Marionette	INFO	Stopped listening on port 61955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682087123107	geckodriver	INFO	Listening on 127.0.0.1:62042
+1682087126165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62043" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilepkTRTZ"
+1682087126414	Marionette	INFO	Marionette enabled
+1682087126419	Marionette	INFO	Listening on port 62049
+WebDriver BiDi listening on ws://127.0.0.1:62043
+1682087126767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilepkTRTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62043/devtools/browser/51e0c49d-79d7-473e-8908-b032cabb5313
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087196622	Marionette	INFO	Stopped listening on port 62041682087199122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62179" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilejML5gd"
+1682087199374	Marionette	INFO	Marionette enabled
+1682087199378	Marionette	INFO	Listening on port 62186
+WebDriver BiDi listening on ws://127.0.0.1:62179
+1682087199724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilejML5gd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62179/devtools/browser/5539065b-3a60-4b10-885a-1b4eebfed21d
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087431040	Marionette	INFO	Stopped listening on port 62186
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62288" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilemDJ9gG"
+1682087251435	Marionette	INFO	Marionette enabled
+1682087251438	Marionette	INFO	Listening on port 62296
+WebDriver BiDi listening on ws://127.0.0.1:62288
+1682087251783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilemDJ9gG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62288/devtools/browser/1634e5a5-55ac-4589-96a2-5a98b0134683
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087430399	Marionette	INFO	Stopped listening on port 62296
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62399" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile4e0K8m"
+1682087286683	Marionette	INFO	Marionette enabled
+1682087286688	Marionette	INFO	Listening on port 62405
+WebDriver BiDi listening on ws://127.0.0.1:62399
+1682087287038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile4e0K8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62399/devtools/browser/c8c304ca-264e-49bc-89da-294545d6178c
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087429281	Marionette	INFO	Stopped listening on port 62401682087431036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62632" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile33245a"
+1682087431330	Marionette	INFO	Marionette enabled
+1682087431336	Marionette	INFO	Listening on port 62642
+WebDriver BiDi listening on ws://127.0.0.1:62632
+1682087431698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile33245a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62632/devtools/browser/04e21c04-a73b-44eb-8861-508615659c18
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2030-s.js?_=1682087520428, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 92: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 5066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 2782 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 4719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 92: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 1099 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1682087897044	Marionette	INFO	Stopped listening on port 62642
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ port 63443
+WebDriver BiDi listening on ws://127.0.0.1:63436
+1682087897103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofileMNuH6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63436/devtools/browser/5e2b4aac-87db-4373-85df-e28058a5c2b4
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682087957266	Marionette	INFO	Stopped listening on port 63443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682088160447	geckodriver	INFO	Listening on 127.0.0.1:63864
+1682088163476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63865" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile5nmBtI"
+1682088163771	Marionette	INFO	Marionette enabled
+1682088163775	Marionette	INFO	Listening on port 63873
+WebDriver BiDi listening on ws://127.0.0.1:63865
+1682088164144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofile5nmBtI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63865/devtools/browser/67e8e1de-7d20-4bfc-b47c-7b4d8cd51de3
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682088282476	Marionette	INFO	Stopped listening on port 63873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63968" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilezSSts7"
+1682088197835	Marionette	INFO	Marionette enabled
+1682088197840	Marionette	INFO	Listening on port 63975
+WebDriver BiDi listening on ws://127.0.0.1:63968
+1682088198207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilezSSts7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63968/devtools/browser/0b2b9884-288f-4890-a99e-e22fd53f3b8e
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682088281339	Marionette	INFO	Stopped listening on port 63975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1682132075941	geckodriver	INFO	Listening on 127.0.0.1:50727
+1682132079008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50728" "-no-remote" "-profile" "C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilekUTUQO"
+1682132079337	Marionette	INFO	Marionette enabled
+1682132079343	Marionette	INFO	Listening on port 50733
+WebDriver BiDi listening on ws://127.0.0.1:50728
+1682132079618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilekUTUQO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50728/devtools/browser/523a0e21-830b-4379-9b90-4a52b9ffaa70
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js, line 1: TypeError: Notification.get: Argument 1 can't be converted to a dictionary.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1076724771190722, line 93: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 6897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1682166079643	Marionette	INFO	Stopped listening on port 50733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+d for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\c1318\\AppData\\Local\\Temp\\rust_mozprofilejv7Uge\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54584/devtools/browser/a7fb0479-dcdb-42a8-baa6-a9416b0cefc5
+JavaScript warning: https://emcharts.dfcfw.com/emsider/prod/emsider.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://emcharts.dfcfw.com/usercollect/usercollect.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682165989815	Marionette	INFO	Stopped listening on port 54589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
