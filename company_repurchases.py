@@ -25,6 +25,7 @@ def JsonStore(data):
         
 diver=webdriver.Firefox()
 diver.get('https://data.eastmoney.com/notices/hsa/6.html')
+print("opendiver")
 today=datetime.datetime.now().strftime('%Y-%m-%d')
 todayjson=[]
 #元素定位到回购事件
