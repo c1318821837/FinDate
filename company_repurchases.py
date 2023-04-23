@@ -9,8 +9,7 @@ import datetime
 diver=webdriver.Firefox()
 diver.get('https://data.eastmoney.com/notices/hsa/6.html')
 print("opendiver")
-#today=datetime.datetime.now().strftime('%Y-%m-%d')
-today='2023-04-20'
+today=datetime.datetime.now().strftime('%Y-%m-%d')
 todayjson=[]
 #元素定位到回购事件
 element=diver.find_element(By.XPATH,'/html/body/div[1]/div[8]/div[2]/div[3]/div[2]/ul/li[14]')
