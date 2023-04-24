@@ -11,6 +11,7 @@ diver.get('https://data.eastmoney.com/notices/hsa/6.html')
 print("opendiver")
 today=datetime.datetime.now().strftime('%Y-%m-%d')
 todayjson=[]
+print("today is "+today)
 #元素定位到回购事件
 element=diver.find_element(By.XPATH,'/html/body/div[1]/div[8]/div[2]/div[3]/div[2]/ul/li[14]')
 element.click()
